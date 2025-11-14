@@ -5,11 +5,11 @@
 	 border-radius: 5px;
  }
 
-tbody tr: nth-child(even){
+tbody tr:nth-child(even){
 	background-color: #ffffff;
 }
 
-tbody tr: nth-child(odd){
+tbody tr:nth-child(odd){
 	background-color: #f2f2f2;
 }
 
